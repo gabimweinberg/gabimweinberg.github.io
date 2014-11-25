@@ -1,5 +1,10 @@
 body {
-	background: 
+	background: url("images/stripes.png") repeat-x, 
+	url ("images/background.png") no-repeat #fd6e6e;
+	color: #fff;
+	font-family: helvetica, arial, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
 }
 
 p {
