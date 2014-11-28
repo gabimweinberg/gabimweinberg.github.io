@@ -10,3 +10,9 @@ p {
 	font-weight: bold;
 	font-size: 24px;
 }
+
+hr {
+	border-color:#fd6e6e;
+	width: 100px;
+	margin-left:0;
+}
