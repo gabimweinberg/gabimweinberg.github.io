@@ -1,14 +1,12 @@
 body {
-	background: url("../images/stripes.png") repeat-x, 
-	url ("../images/background.png") no-repeat #fd6e6e;
-
-}
-
-p {
+	background: url("../images/stripes.png") repeat-x, url("../images/background.png") no-repeat #525a6a;
+	background:auto, cover;
 	color: #fff;
 	font-family: helvetica, arial, sans-serif;
 	font-weight: bold;
 	font-size: 24px;
+}
+p {
 }
 
 hr {
