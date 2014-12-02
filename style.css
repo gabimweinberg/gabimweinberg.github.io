@@ -1,6 +1,6 @@
 body {
-	margin-left: 3px
-	margin-top: 3px;
+	margin-left: 30px
+	margin-top: 30px;
 
 	background: url("../images/stripes.png") repeat-x, url("../images/background.jpg") no-repeat #525a6a;
 	background-size:auto, cover;
