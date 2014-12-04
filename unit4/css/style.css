@@ -1,4 +1,10 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
 body{
+
 	background: url("../images/twobeers.jpg") no-repeat #525a6a;
 	background-size:auto, cover;
 
