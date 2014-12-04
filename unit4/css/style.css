@@ -4,7 +4,7 @@
 }
 body{
 
-	background: url("../images/twobeers.jpg") no-repeat #525a6a;
+	background: url("../images/twobeers.jpg") no-repeat;
 	background-size:auto, cover;
 }
 
