@@ -10,6 +10,7 @@ body{
 }
 
 h1{
+	margin-left: 2.0em; 
 	font-family: 'Oswald', sans-serif; 
 	margin-left: 40px;
 	color: #fff;
