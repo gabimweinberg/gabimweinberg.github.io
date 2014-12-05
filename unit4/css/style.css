@@ -6,12 +6,13 @@
 body{
 	background: url("../images/twobeers.jpg") no-repeat;
 	background-size: cover;
-	
+
 }
 
 h1{
 	font-family: 'Oswald', sans-serif; 
 	margin-left: 40px;
+	color: #fff;
 }
 
 
