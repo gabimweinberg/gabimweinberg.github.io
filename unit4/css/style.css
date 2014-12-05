@@ -1,11 +1,12 @@
 *{
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
 }
 body{
-
 	background: url("../images/twobeers.jpg") no-repeat;
-	background-size:auto, cover;
+	background-size: cover;
+	
 }
 
 h1{
