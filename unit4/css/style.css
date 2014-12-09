@@ -7,9 +7,10 @@ body{
 	background: url("../images/twobeers.jpg") no-repeat;
 	background-size: cover;
 	background-color: #000000;
-	font-family: 'Ubuntu', sans-serif;
-	font-weight: 300;
 	color: #fff;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
 }
 section {
 	margin-top: 55px;
