@@ -7,24 +7,21 @@ body{
 	background: url("../images/twobeers.jpg") no-repeat;
 	background-size: cover;
 	background-color: #000000;
-}
-
-h1{
-	text-align: center; 
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
 	color: #fff;
+}
+section {
 	margin-top: 55px;
-	vertical-align: center;
-
+	text-align: center;
+}
+h1{
+	font-family: 'Oswald', sans-serif;
+	font-size:1.62em;
 }
 
 p {
-	font-family: 'Ubuntu', sans-serif;
-	font-weight: 200;
-	color: #fff;
-	text-align: center;
 	margin-top: 50px;
-	vertical-align: center;
 }
 
 
