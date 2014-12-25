@@ -15,7 +15,8 @@ body{
 section {
 	margin-top: 55px;
 	text-align: center;
-	img: url("../images/meetup_logo.jpeg">
+	float:left;
+	width: 400px;
 }
 h1{
 	font-family: 'Oswald', sans-serif;
@@ -25,5 +26,7 @@ h1{
 p {
 	margin-top: 50px;
 }
-
+.logo {
+	width: 30px;
+}
 
