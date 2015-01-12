@@ -5,32 +5,19 @@
 }
 
 body {
-	background-color: #FF0000;
+	background-color: #d10000;
+	font-family: 'Noto Sans', sans-serif;
 }
-
-h1 {
-	font-family: Noto Sans; 
-	padding: 20px;
-
+nav { float:right; }
+section {
+	color: #fff;
 }
-a {
+header p {
+	float:left;
+	margin: 20px;
+}
+nav a {
 	color: white;
 	text-decoration: none;
-	float: right;
-	padding: 30px;
-	font-family: Noto Sans; 
-
-}
-
-section {
-	color: black;
-	float: left;
-	padding: 30px;
-	text-decoration: none;
-	font-family: Noto Sans; 
-	text-align: left;
-
-}
-img {
-	vertical-align: center;
+	margin: 30px;
 }
