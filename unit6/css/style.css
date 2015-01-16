@@ -29,3 +29,10 @@ img.logo {
 	margin:0 auto;
 	width:50%;
 }
+
+section a {
+	color: white;
+	text-decoration: none;
+	margin: 30px;
+	float: right;
+}
