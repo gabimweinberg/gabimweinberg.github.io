@@ -5,18 +5,20 @@
 }
 
 body {
-	background-color: #d10000;
+	background-color: #E53935;
 	font-family: 'Noto Sans', sans-serif;
+	font-size:16px;
 }
-
-img{
-	width: 25%;
-
+header img{
+	float:left;
+	width: 18em;
 }
-
-img .button{
-	width: 300px
-	height: 300px;
+nav {
+	float:right;	
+}
+img.button{
+	width: 10em;
+	height: 10em;
 }
 
 @media (max-width: 800){
