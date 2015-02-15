@@ -10,7 +10,9 @@ body {
 }
 header {
 	background-color: #E53935;	
+	position:fixed; 
 }
+
 header img{
 	float:left;
 	width: 18em;
@@ -24,6 +26,18 @@ img.button{
 	width: 10em;
 	height: 10em;
 }
+img.connect {
+	width: 13em;
+	height: 13em;
+}
+img.picture {
+	height: 13em;
+}
+
+ul {
+list-style-type: none;
+}
+
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
@@ -31,9 +45,16 @@ img.button{
 	height: 0; 
 	clear: both;
 }
+
+section {
+	float: right;
+}
 @media only screen and (min-width:401px) and (max-width: 800px){
 	nav {
 		width: 25%;
+	}
+	.button {
+		width: 10em
 	}
 }
 @media only screen and (max-width:400px) {
